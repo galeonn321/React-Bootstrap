@@ -12,7 +12,7 @@ export const Boxes = () => {
                   <i className="bi bi-laptop"></i>
                 </div>
                 <h3 className="card-title mb-3">Virtual</h3>
-                <p className="card-text ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, fuga laudantium rerum quaerat iure numquam?<br></br><a href="" className="btn btn-primary mt-3">Learn More</a></p>
+                <p className="card-text ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, fuga laudantium rerum quaerat iure numquam?<br></br><a href="#" className="btn btn-primary mt-3">Learn More</a></p>
               </div>
             </div>
           </div>
@@ -23,7 +23,7 @@ export const Boxes = () => {
                   <i className="bi bi-person"></i>
                 </div>
                 <h3 className="card-title mb-3">People</h3>
-                <p className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, fuga laudantium rerum quaerat iure numquam?<br></br><a href="" className="btn btn-primary mt-3">Learn More</a></p>
+                <p className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, fuga laudantium rerum quaerat iure numquam?<br></br><a href="#" className="btn btn-primary mt-3">Learn More</a></p>
               </div>
             </div>
           </div>
@@ -34,7 +34,7 @@ export const Boxes = () => {
                   <i className="bi bi-people"></i>
                 </div>
                 <h3 className="card-title mb-3">Groups</h3>
-                <p className="card-text ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, fuga laudantium rerum quaerat iure numquam?<br></br><a href="" className="btn btn-primary mt-3">Learn More</a></p>
+                <p className="card-text ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, fuga laudantium rerum quaerat iure numquam?<br></br><a href="#" className="btn btn-primary mt-3">Learn More</a></p>
               </div>
             </div>
           </div>

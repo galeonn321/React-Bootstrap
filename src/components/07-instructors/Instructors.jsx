@@ -20,9 +20,9 @@ export const Instructors = () => {
                 <p className="card-text lead">
                 Professional in Psychology and student of the Master's Degree in Human Talent Management, with experience in the different threads of the Human Resources area aimed at the development and increase of productivity aligned with the corporate strategy, such as the attraction and incorporation of Human Talent.
                 </p>
-                <a href="" className="bi bi-twitter" />
+                <a href="#" className="bi bi-twitter" />
                 <a href="https://co.linkedin.com/in/lizeth-lorena-arteaga-b6b878145/en?trk=people-guest_people_search-card" className="bi bi-linkedin p-5" />
-                <a href="" className="bi bi-instagram " />
+                <a href="#" className="bi bi-instagram " />
               </div>
             </div>
           </div>
@@ -37,9 +37,9 @@ export const Instructors = () => {
                 <p className="card-text lead">
                 The IT world has always been of great interest to Santiago. It started as a self-taught hobby where he curiously learned about computers and then decided to study the program in network and support technology. Other interests are sports and books and he likes to play football with his friends on the weekends.
                 </p>
-                <a href="" className="bi bi-twitter " />
-                <a href="" className="bi bi-facebook p-5" />
-                <a href="" className="bi bi-instagram " />
+                <a href="#" className="bi bi-twitter " />
+                <a href="#" className="bi bi-facebook p-5" />
+                <a href="#" className="bi bi-instagram " />
               </div>
             </div>
           </div>
@@ -54,9 +54,9 @@ export const Instructors = () => {
                 <p className="card-text lead">
                 The IT world has always been of great interest to Santiago. It started as a self-taught hobby where he curiously learned about computers and then decided to study the program in network and support technology. Other interests are sports and books and he likes to play football with his friends on the weekends.
                 </p>
-                <a href="" className="bi bi-twitter " />
-                <a href="" className="bi bi-facebook p-5" />
-                <a href="" className="bi bi-instagram " />
+                <a href="#" className="bi bi-twitter " />
+                <a href="https://co.linkedin.com/in/lizeth-lorena-arteaga-b6b878145/en?trk=people-guest_people_search-card" className="bi bi-facebook p-5" />
+                <a href="#" className="bi bi-instagram " />
               </div>
             </div>
           </div>
@@ -71,9 +71,9 @@ export const Instructors = () => {
                 <p className="card-text lead">
                 Professional in Psychology and student of the Master's Degree in Human Talent Management, with experience in the different threads of the Human Resources area aimed at the development and increase of productivity aligned with the corporate strategy, such as the attraction and incorporation of Human Talent.
                 </p>
-                <a href="" className="bi bi-twitter" />
+                <a href="#" className="bi bi-twitter" />
                 <a href="https://co.linkedin.com/in/lizeth-lorena-arteaga-b6b878145/en?trk=people-guest_people_search-card" className="bi bi-linkedin p-5" />
-                <a href="" className="bi bi-instagram" />
+                <a href="#" className="bi bi-instagram" />
               </div>
             </div>
           </div>
