@@ -1,4 +1,3 @@
-import React from "react";
 import { Instructors } from "./07-instructors/Instructors";
 import { Footer } from "./08-footer/Footer";
 import { NavBar } from "./1_navbar/NavBar";

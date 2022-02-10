@@ -4,7 +4,7 @@ export const IntroSection = () => {
       <div className="container">
         <div className="d-sm-flex align-items-center justify-content-between ">
           <div className="">
-            <h1 text-center>
+            <h1 className="text-center">
               Viva Cristo rey y Jesus pero ante todo
               <span className="text-warning  d-flex justify-content-center align-items-center">
                 WILLYREX
