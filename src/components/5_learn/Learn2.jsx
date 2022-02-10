@@ -17,14 +17,14 @@ export const Learn2 = () => {
               placeat culpa voluptate nemo illo sunt in expedita porro nulla
               eligendi.
             </p>
-            <a href="" className="btn btn-light mt-5 mb-5">
+            <a href="/" className="btn btn-light mt-5 mb-5">
               <i className="bi bi-chevron-right"></i> Read more
             </a>
           </div>
           <div className="col-md ">
           <img
             src="assets/reactImage.png"
-            alt="html css js image"
+            alt="react"
             className="img-fluid w-75"
           ></img>
         </div>

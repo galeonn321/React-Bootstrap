@@ -5,7 +5,7 @@ export const NavBar = () => {
     <div className="col-xxl-12">
       <nav className="navbar navbar-expand-lg bg-dark navbar-dark fixed-top">
         <div className="container">
-          <a href="" className="navbar-brand ">
+          <a href="/" className="navbar-brand ">
             <i className="bi bi-building"></i> Fidelio 
           </a>
           <button

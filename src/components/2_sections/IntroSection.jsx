@@ -1,4 +1,10 @@
+import { useState } from "react";
+import { Button } from "reactstrap";
+import { ModalTest } from "./2.1-intro-modal/ModalTest";
+
 export const IntroSection = () => {
+  const [isOpen, setIsOpen] = useState(false);
+
   return (
     <section className="bg-dark text-light p-5 text-sm-start">
       <div className="container">
@@ -18,13 +24,9 @@ export const IntroSection = () => {
               nesciunt.
             </p>
             <div className="text-center mt-5">
-              <button
-                className="btn btn-primary btn-lg"
-                data-bs-toogle="modal"
-                data-bs-target="#enroll"
-              >
+              <Button size="lg" color="primary" onClick={() => setIsOpen(true)}>
                 Start journey
-              </button>
+              </Button>
             </div>
           </div>
           <img
@@ -34,6 +36,7 @@ export const IntroSection = () => {
           ></img>
         </div>
       </div>
+      <ModalTest isOpen={isOpen} setIsOpen={setIsOpen} />
     </section>
   );
 };

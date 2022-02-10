@@ -1,6 +1,4 @@
 export const IntroModal = () => {
-
-    
   return (
     <div className="modal" id="enroll">
       <div className="modal-dialog">
@@ -17,22 +15,22 @@ export const IntroModal = () => {
           <div className="modal-body">
             <p className="lead">Please fill out the form completely</p>
             <form>
-                <div className="mb-3">
-                    <label className="col-form-label">Name :</label>
-                    <input type="text" className="form-control"></input>
-                </div>
-                <div className="mb-3">
-                    <label className="col-form-label">Lastname :</label>
-                    <input type="text" className="form-control"></input>
-                </div>
-                <div className="mb-3">
-                    <label className="col-form-label">Email :</label>
-                    <input type="text" className="form-control"></input>
-                </div>
-                <div className="mb-3">
-                    <label className="col-form-label">Phone :</label>
-                    <input type="text" className="form-control"></input>
-                </div>
+              <div className="mb-3">
+                <label className="col-form-label">Name :</label>
+                <input type="text" className="form-control"></input>
+              </div>
+              <div className="mb-3">
+                <label className="col-form-label">Lastname :</label>
+                <input type="text" className="form-control"></input>
+              </div>
+              <div className="mb-3">
+                <label className="col-form-label">Email :</label>
+                <input type="text" className="form-control"></input>
+              </div>
+              <div className="mb-3">
+                <label className="col-form-label">Phone :</label>
+                <input type="text" className="form-control"></input>
+              </div>
             </form>
           </div>
           <div className="modal-footer">
