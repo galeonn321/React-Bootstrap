@@ -5,3 +5,4 @@ module.exports = {
     "jsx-a11y/anchor-has-content": "off",
   },
 };
+
