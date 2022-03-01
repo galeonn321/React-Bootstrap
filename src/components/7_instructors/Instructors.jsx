@@ -14,7 +14,7 @@ export const Instructors = () => {
                   src="/assets/1st project.png"
                   className="rounded-circle border border-3 border-dark mb-3 w-75"
                   alt="project_1"
-                />
+                ></img>
                 <h3 className="card-title mb-3">1st Project</h3>
                 <p className="card-text lead">
                 A project mainly done to learn the absolute basics of HTML, CSS & Javascript where we freely experimented with the basics of every language using visual code & github.
