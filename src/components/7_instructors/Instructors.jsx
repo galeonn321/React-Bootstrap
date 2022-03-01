@@ -12,8 +12,8 @@ export const Instructors = () => {
               <div className="card-body text-center">
                 <img
                   src="/assets/1st project.png"
-                  alt=""
                   className="rounded-circle border border-3 border-dark mb-3 w-75"
+                  alt="project_1"
                 />
                 <h3 className="card-title mb-3">1st Project</h3>
                 <p className="card-text lead">
