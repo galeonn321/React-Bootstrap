@@ -12,7 +12,7 @@ export const Instructors = () => {
               <div className="card-body text-center">
                 <img
                   src="/assets/1st project.png"
-                  alt="react"
+                  alt="project 1 content"
                   className="rounded-circle border border-3 border-dark mb-3 w-75"
                 />
                 <h3 className="card-title mb-3">1st Project</h3>
@@ -28,7 +28,7 @@ export const Instructors = () => {
               <div className="card-body text-center">
                 <img
                   src="/assets/2nd project.png"
-                  alt="react"
+                  alt="project 2 content"
                   className="rounded-circle border border-3 border-dark mb-3 img-fluid w-75"
                 />
                 <h3 className="card-title mb-3">2nd Project</h3>
@@ -44,7 +44,7 @@ export const Instructors = () => {
               <div className="card-body text-center">
                 <img
                   src="/assets/3rd project.png"
-                  alt="react"
+                  alt="project 3 content"
                   className="rounded-circle border border-3 border-dark mb-3 img-fluid w-75"
                 />
                 <h3 className="card-title mb-3">3rd project</h3>
@@ -60,7 +60,7 @@ export const Instructors = () => {
               <div className="card-body text-center">
                 <img
                   src="/assets/4th Project.png"
-                  alt="react"
+                  alt="project 4 content"
                   className="rounded-circle border border-3 border-dark mb-3 w-75"
                 />
                 <h3 className="card-title mb-3">4th Project</h3>
@@ -76,7 +76,7 @@ export const Instructors = () => {
               <div className="card-body text-center">
                 <img
                   src="/assets/perfil1.jpg"
-                  alt="react"
+                  alt="project 5 content"
                   className="rounded-circle border border-3 border-dark mb-3"
                 />
                 <h3 className="card-title mb-3">Future projects...</h3>
