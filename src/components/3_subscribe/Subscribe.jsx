@@ -2,15 +2,15 @@ import React from "react";
 
 export const Subscribe = () => {
   return (
-    <section className="bg-primary text-light p-5">
-      <div className="container">
-        <div className="d-md-flex justify-content-between aligh-times-center">
-          <h3 className="mb-3 mb-md-0"> Subscribe to our Willyrex world</h3>
+    <section id="Subscribe" className="bg-primary text-light p-5">
+      <div className="container d-flex justify-content-center ">
+        <div className="d-mb-flex w-50 p-3 text-center">
+          <h2 className="mb-3 mb-2 md-0 "> Reach me </h2>
           <div className="input-group mb-3 box-email">
             <input type="email" className="form-control" placeholder="Email" />
-              <button className="btn btn-dark btn-lg" >
+              <a href="mailto:santichiste@hotmail.com"className="btn btn-dark btn-lg" >
                 Send
-              </button>           
+              </a>           
           </div>
         </div>
       </div>

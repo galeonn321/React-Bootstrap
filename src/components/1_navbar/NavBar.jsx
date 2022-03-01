@@ -6,7 +6,7 @@ export const NavBar = () => {
       <nav className="navbar navbar-expand-lg bg-dark navbar-dark fixed-top">
         <div className="container">
           <a href="/" className="navbar-brand ">
-            <i className="bi bi-building"></i> Fidelio 
+            <i className="bi bi-building"></i> Portfolio-Bootstrap
           </a>
           <button
             className="navbar-toggler"
@@ -19,8 +19,8 @@ export const NavBar = () => {
           <div className="collapse navbar-collapse" id="navmenu">
             <ul className="navbar-nav ms-auto">
               <li className="nav-item">
-                <a href="#learn" className="nav-link">
-                    Information
+                <a href="#Subscribe" className="nav-link">
+                    About me
                 </a>
               </li>
               <li className="nav-item">
@@ -30,7 +30,7 @@ export const NavBar = () => {
               </li>
               <li className="nav-item">
                 <a href="#instructors" className="nav-link">
-                  Contact
+                  Projects
                 </a>
               </li>
             </ul>

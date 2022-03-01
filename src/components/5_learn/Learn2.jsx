@@ -4,18 +4,14 @@ export const Learn2 = () => {
       <div className="container">
         <div className="row  d-flex align-items-center text-center">
           <div className="col-md p-5">
-            <h2 className="text-center">
-              Let's begin with our first learnings.
+            <h2 className="text-center pb-3">
+              Let's develop with the latest frameworks.
             </h2>
             <p className="lead text-center">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima
-              placeat culpa voluptate nemo illo sunt in expedita porro nulla
-              eligendi.
+              My current focus is to create Front-end websites using React, Bootstrap. Always trying to keep the best web-standards and code practices.
             </p>
             <p className="lead text-center">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima
-              placeat culpa voluptate nemo illo sunt in expedita porro nulla
-              eligendi.
+              
             </p>
             <a href="/" className="btn btn-light mt-5 mb-5">
               <i className="bi bi-chevron-right"></i> Read more
