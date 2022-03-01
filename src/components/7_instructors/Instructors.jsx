@@ -12,7 +12,7 @@ export const Instructors = () => {
               <div className="card-body text-center">
                 <img
                   src="/assets/1st project.png"
-                  alt="project 1 content"
+                  alt=""
                   className="rounded-circle border border-3 border-dark mb-3 w-75"
                 />
                 <h3 className="card-title mb-3">1st Project</h3>
